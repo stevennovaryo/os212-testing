@@ -1,0 +1,8 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://os4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00 45 L04 Set up Github pages
+ZCZC W00 240 L26 Competitive Programming
+ZCZC W00 30 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W00 600 L73 Gaming
+ZCZC W00 120 L80 Waching Youtube.
