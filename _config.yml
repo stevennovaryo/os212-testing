@@ -1,17 +1,22 @@
-# used similar config from cbkadal
 title:       "Operating Systems 2021-2 (OS212)"
+version:     "0001---05-Sep-2021"
+copyright:   "2021-2021"
 description: >- 
-  This is a os212 repository!
+  It Just Works!
+# baseurl: "" # e.g. /blog
+# url: ""     # e.g. http://example.com
+google_analytics: "UA"
 author:           "Steven Novaryo"
 address:          "Pontianak"
 sitemap:          "true"
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
-urlweb:           "https://stevennovaryo.github.io/os212-testing/"
+urlweb:           "https://stevennovaryo.github.io/os212/"
 urlcontact:       "TBS"
-urlgithub:        "https://github.com/stevennovaryo/os212-testing/"
-urlghpage:        "https://stevennovaryo.github.io/os212-testing/"
+urlgithub:        "https://github.com/stevennovaryo/os212/"
+urlghpage:        "https://stevennovaryo.github.io/os212/"
 keywords:         "jekyll, testing"
 github:           
   - metadata
+

@@ -1,8 +1,19 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
-# LogCode: https://os4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 45 L04 Set up Github pages
-ZCZC W00 240 L26 Competitive Programming
-ZCZC W00 30 L31 VirtualBox: install GNU/Linux, etc.
-ZCZC W00 600 L73 Gaming
-ZCZC W00 120 L80 Waching Youtube.
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00  05 L00 General, etc.
+ZCZC W00  10 L01 SCELE/Discord related
+ZCZC W00  30 L02 ZOOM meetings related
+ZCZC W00  05 L03 GitHub related
+ZCZC W00  05 L04 GitHub Pages related
+ZCZC W00  90 L10 Assignment #00 persiapan
+ZCZC W00  15 L70 Review ALIN
+ZCZC W00 120 L80 Watch Star Wars
+ZCZC W00  10 L99 Secret Mission
+ZCZC W01  05 L00 General, etc.
+ZCZC W01  10 L01 SCELE/Discord related
+ZCZC W01  30 L02 ZOOM meetings related
+ZCZC W01  05 L03 GitHub related
+ZCZC W01  05 L04 GitHub Pages related
+ZCZC W01  05 L11 Assignment #01
+
